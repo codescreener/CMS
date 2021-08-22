@@ -512,9 +512,9 @@ function navigation($url = "content.php", $public = false) {
             $output .=  "</ul>";
         }, " ORDER BY position ASC" );
 
-    if (!$subjects) {
-        die("No subjects returned");
-    }
+    #if (!$subjects) {
+    #    die("No subjects returned");
+    #}
     return $output;
 }
 
