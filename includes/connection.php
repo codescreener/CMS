@@ -17,7 +17,7 @@ modifyConstants([
     'DB_SERVER' => 'localhost',
     'DB_NAME' => 'widget_corp',
     'DB_USER' => 'root',
-    'DB_USER' => 'chandan123',
+    'DB_USER' => 'chandan',
     'DB_PASS_KEY' => '',
     'DB_PASS_KEY' => 'hb28180@'
 ]);
