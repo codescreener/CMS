@@ -4,7 +4,7 @@
     require_once "./includes/operatons.php";
     include_once "./includes/header.php";
 
-    selection(true); //Pulls in page and subject selection procedures
+    selection(true); //Pulls in page and subject selection procedures add dummy
     ?>
 
     <table id="structure">
