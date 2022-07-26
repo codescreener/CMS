@@ -19,7 +19,7 @@ modifyConstants([
     'DB_USER' => 'root1',
     'DB_USER' => 'chandan',
     'DB_PASS_KEY' => '',
-    'DB_PASS_KEY' => 'hb28180@'
+    'DB_PASS_KEY' => '12345@'
 ]);
 
 $conParams = "<p>  <strong> Connection paramters:-</strong> <br /> server: $DB_SERVER, <br /> Database: $DB_NAME, <br /> User: $DB_USER, <br /> PMK: $DB_PASS_KEY";
